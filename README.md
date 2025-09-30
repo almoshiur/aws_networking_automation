@@ -1,7 +1,7 @@
 # Python Networking Projects
 
 This repository contains Python scripts for **networking and server management**.  
-You can use these scripts for **pinging servers**, **SSH login**, and learning **Python for AWS, Cloud, and Networking projects**.
+These scripts for **pinging servers**, **SSH login**, and learning **Python for AWS, Cloud, and Networking projects**.
 
 ---
 
