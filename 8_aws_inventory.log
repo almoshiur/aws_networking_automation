@@ -1,0 +1,7 @@
+2025-10-01 21:47:20,828 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-10-01 21:47:20,929 - INFO - Fetching VPC information from AWS...
+2025-10-01 21:47:21,842 - INFO - Fetching Subnet information from AWS...
+2025-10-01 21:47:22,236 - INFO - CSV header written.
+2025-10-01 21:47:22,236 - INFO - 1 VPC(s) written to CSV.
+2025-10-01 21:47:22,236 - INFO - 11 Subnet(s) written to CSV.
+2025-10-01 21:47:22,237 - INFO - VPC and Subnet information saved to 8_network_inventory.csv

@@ -1,0 +1,13 @@
+ResourceType,ID,CIDR_Block
+VPC,vpc-01fbc8ed21c4467c3,172.31.0.0/16
+Subnet,subnet-01df7bdfad186b8ea,172.31.96.0/25
+Subnet,subnet-001c5a88258980b7e,172.31.96.128/25
+Subnet,subnet-072184c99be29eeef,172.31.16.0/20
+Subnet,subnet-020c917640d48bbaf,172.31.80.0/20
+Subnet,subnet-0a05c16051c774315,172.31.97.0/25
+Subnet,subnet-021bb083310ea5b7f,172.31.97.128/25
+Subnet,subnet-0b6b48b08d9786377,172.31.64.0/20
+Subnet,subnet-06c0df5fea13d6dde,172.31.0.0/20
+Subnet,subnet-0ed18fa81dd13f6b9,172.31.98.0/25
+Subnet,subnet-05164781db9d1945d,172.31.32.0/20
+Subnet,subnet-049519c79e8939b08,172.31.48.0/20
